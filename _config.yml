@@ -9,7 +9,7 @@ twitter_username: I_am_Bbek
 github_username:  bibekebib
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 # theme_settings:
 #  title: I, Me, Bibek
 
