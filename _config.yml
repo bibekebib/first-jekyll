@@ -1,0 +1,31 @@
+title: I, Me, Bibek
+timezone: UTC
+email: modernbib@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+ Hi! This is Bibek. I love reading, writing and computing for a reason.
+baseurl: "" 
+url: "https://chalisebibek.com.np" 
+twitter_username: I_am_Bbek
+github_username:  bibekebib
+
+# Build settings
+theme: jekyll-theme-architect
+# theme_settings:
+#  title: I, Me, Bibek
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  # - jekyll-paginate
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
